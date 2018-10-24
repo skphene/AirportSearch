@@ -1,0 +1,10 @@
+name: airportsearch
+title:
+username:
+account: skphene
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 533123
+bundleId: 1661330
+url: https://skphene.shinyapps.io/airportsearch/
+when: 1540418617.36481
